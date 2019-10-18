@@ -1,0 +1,2 @@
+# Rose-POS
+POS Application
